@@ -1,4 +1,6 @@
-## Hi there 👋
+## A high school otaku
+
+![Tsuki ni yorisou](https://github.com/user-attachments/assets/6a0f30f1-31de-4bc3-b93e-26c23dbdcf75)
 
 <!--
 **hoangtrungSiscon/hoangtrungSiscon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
